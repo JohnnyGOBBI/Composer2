@@ -1,0 +1,16 @@
+{
+    "name": "johnny/composer",
+    "description": "Premier projet composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marv3lH0use",
+            "email": "jobo33@gmail.com"
+        }
+    ],
+    "require": {}
+}
